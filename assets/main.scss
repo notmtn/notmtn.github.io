@@ -1,0 +1,11 @@
+@import "minima";
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: middle;
+}
