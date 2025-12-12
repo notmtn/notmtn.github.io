@@ -34,4 +34,4 @@ Feel free to reach out to me via email at msafarli25930@ada.edu.az or connect wi
 - [Codecademy Profile](https://www.codecademy.com/profiles/metin.s)
 - [Website Repository](https://github.com/notmtn/notmtn.github.io)
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+I'm always open to discussing new opportunities, collaborations, or just chatting about different things!
