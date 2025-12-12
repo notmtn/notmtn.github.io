@@ -4,9 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
+<style>
+.project-screenshot {
+  width: 300px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 10px 0;
+  display: block;
+}
+</style>
+
 # My Projects
 
-Here are some of the projects I've worked on. These showcase my skills in programming, web development, and problem-solving.
+Here are some of the projects I've worked on. These showcase my skills in programming, web development, and hardware.
 
 ## Personal Website
 
@@ -16,16 +27,11 @@ Here are some of the projects I've worked on. These showcase my skills in progra
 
 **Link**: [View on GitHub](https://github.com/notmtn/notmtn.github.io)
 
-## Project 2: Coming Soon
+## Project 1: Logic gates
 
-**Description**: I'm currently working on a new project. Stay tuned for updates!
+**Description**: Me and my team built logic gates using a breadboard in a lab. We built basic logic games NOT, AND, OR and collaborated with other teams to build NAND and XOR gates.
 
-**Technologies**: TBD
-
-## Project 3: Coming Soon
-
-**Description**: Another exciting project in the works.
-
-**Technologies**: TBD
-
-If you'd like to see more of my work, check out my [GitHub profile](https://github.com/notmtn) for additional repositories and contributions.
+**Images**:
+<img src="/assets/img/logic1.png" alt="Logic Gate 1" class="project-screenshot" />
+<img src="/assets/img/logic2.png" alt="Logic Gate 2" class="project-screenshot" />
+<img src="/assets/img/logic3.png" alt="Logic Gate 3" class="project-screenshot" />
