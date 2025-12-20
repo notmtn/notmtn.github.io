@@ -1,19 +1,5 @@
 # AI Chat Export
 
-This is a Markdown file for exporting AI chat conversations.
-
-## How to Use
-
-1. Copy the chat conversation from VS Code.
-2. Paste it here.
-3. Save the file.
-
-## Example Conversation
-
-**User:** How do I export a chat with you?
-
-**AI:** GitHub Copilot chats in VS Code are not automatically saved or exportable as a file. However, you can manually export the conversation by selecting all the text in the chat panel and copying it to a text editor or Markdown file.
-
 notmtn: edit my home page to make it more clean, make my photo small and circled
 
 GitHub Copilot: Read [](file:///d%3A/information%20systems/website/notmtn.github.io/index.markdown)
