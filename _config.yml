@@ -34,8 +34,6 @@ plugins:
 
 header_pages:
   - index.markdown
-  - about.markdown
-  - projects.md
 
 
 # Exclude from processing.
